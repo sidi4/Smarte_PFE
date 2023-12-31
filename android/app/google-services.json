@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286715298714",
+    "project_id": "volapp-5b3b1",
+    "storage_bucket": "volapp-5b3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286715298714:android:2a353dc960876b90cbf023",
+        "android_client_info": {
+          "package_name": "com.example.volsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIL6MXGtfi5cLUVKgWzWs3VhYMX1C5kS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
